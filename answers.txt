@@ -1,0 +1,7 @@
+Shane Petree
+Date: 5/22/2022
+Lab 1
+
+The '>' combined with the 'ls' command created newfile.txt and listed the files in my lab directory directly inside newfile.txt. I was also able to use the 'ls' command afterwards to list newfile.txt in my lab directory now that it had been made.
+After adding newfile.txt, the git status command tells me that a file has been added and will be commited in my next commit unless I remove it.
+The 'git diff' command shows me any new changes that were added to a file since it was last added using the 'git add' command.
